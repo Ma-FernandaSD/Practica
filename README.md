@@ -3,4 +3,5 @@ equipo: 3
 integrantes:
 no. control/nombre
 
-19321077 Alex Anthony Rodriguez Rivera
+18320891 Luis Angel Herrera Reyes
+
