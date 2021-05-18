@@ -1,7 +1,7 @@
-Proyecto: paint
-equipo: 3
-integrantes:
-no. control/nombre
+Proyecto: Paint
+Equipo: 3
+Integrantes:
+No. Control/Nombre
 
 18320891 Luis Angel Herrera Reyes
 19321077 Alex Anthony Rodriguez Rivera
